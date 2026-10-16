@@ -4,3 +4,9 @@ target/
 *.iml
 .env
 application-local.yml
+
+
+macOS system files
+
+.DS_Store
+**/.DS_Store
